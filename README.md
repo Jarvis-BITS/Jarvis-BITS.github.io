@@ -1,2 +1,2 @@
 # Jarvis-BITS.github.io
-Welcome to my portfolio
+Hey there! Welcome to my personal website
