@@ -1,4 +1,4 @@
-# **Scrapped** New Website on : bp-gc.in.javinbachani ( i got lazy :sleepy: )
+# **Scrapped** New Website on : [Portfolio Link](bp-gc.in.javinbachani) ( i got lazy :sleepy: )
 ## Hey there! Welcome to my personal website, hosted on github webpages
 ### *** Link: https://jarvis-bits.github.io/ ***
 This is my first website as well as completed repository on Github\
