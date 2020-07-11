@@ -5,9 +5,9 @@ All coding was done on an open-source text editor-Visual Studio Code\
 This is a static website built using HTML, PHP, CSS & Javascript. 
 
 Features pending:
--[ ] Dark Mode
--[ ] Good Background image(yet to find one)
--[ ] Adding internal blog data to first.html 
+- [ ] Dark Mode
+- [ ] Good Background image(yet to find one)
+- [ ] Adding internal blog data to first.html 
 
 Changes added:-<ul>
   <li> ISSUE: Closed PHP form until suitable alternative</li>
