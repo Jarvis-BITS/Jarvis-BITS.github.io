@@ -6,14 +6,14 @@ All coding was done on an open-source text editor-Visual Studio Code\
 This is a static website built using HTML, PHP, CSS & Javascript. 
 
 Features pending:
+- [x] Updated PHP form with webhooks
 - [ ] Dark Mode
 - [ ] Good Background image(yet to find one)
-- [ ] Adding internal blog data to first.html 
 - [ ] Add OS page
 - [ ] Add badges
 
 Changes added:-<ul>
-  <li> ISSUE: Closed PHP form until suitable alternative</li>
+<!--   <li> ISSUE: Closed PHP form until suitable alternative</li> -->
   <li> Updated personal info and changed formatting of some sentences </li>
   <li> Changed source location of JPG's to my own licensed pictures </li>
   <li> Added other extra social icons i.e Github </li>
