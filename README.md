@@ -12,11 +12,4 @@ Features pending:
 - [ ] Add OS page
 - [ ] Add badges
 
-Changes added:-<ul>
-<!--   <li> ISSUE: Closed PHP form until suitable alternative</li> -->
-  <li> Updated personal info and changed formatting of some sentences </li>
-  <li> Changed source location of JPG's to my own licensed pictures </li>
-  <li> Added other extra social icons i.e Github </li>
-  <li> Added URL links to several icons </li>
-  <li> Addded comments to enhance readibility </li>
-                
+
