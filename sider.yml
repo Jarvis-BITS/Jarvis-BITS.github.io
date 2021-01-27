@@ -57,7 +57,7 @@ linter:
 
   # https://help.sider.review/tools/php/phinder
   phinder:
-    rule: config/phinder.yml
+    rule: rules
     php: src
 
   # https://help.sider.review/tools/shellscript/shellcheck
