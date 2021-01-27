@@ -1,24 +1,24 @@
 linter:
 # https://help.sider.review/getting-started/custom-configuration
 
-  # https://help.sider.review/tools/php/code-sniffer
-  code_sniffer:
-    dir: app/
-    standard: CakePHP
+#   # https://help.sider.review/tools/php/code-sniffer
+#   code_sniffer:
+#     dir: app/
+#     standard: CakePHP
 
-  # https://help.sider.review/tools/php/phpmd
-  phpmd:
-    target:
-      - index.php
-      - wp-content
-    rule: codesize,unusedcode
-    minimumpriority: 3
-    suffixes: php,phtml
-    exclude: app/Vendor/
-    strict: true
-    custom_rule_path:
-      - Custom_PHPMD_Rule.php
-      - custom/phpmd/rules/**/*.php
+#   # https://help.sider.review/tools/php/phpmd
+#   phpmd:
+#     target:
+#       - index.php
+#       - wp-content
+#     rule: codesize,unusedcode
+#     minimumpriority: 3
+#     suffixes: php,phtml
+#     exclude: app/Vendor/
+#     strict: true
+#     custom_rule_path:
+#       - Custom_PHPMD_Rule.php
+#       - custom/phpmd/rules/**/*.php
 
   # https://help.sider.review/tools/javascript/eslint
   eslint:
@@ -55,10 +55,10 @@ linter:
     locale: UK
     ignore: center,behavior
 
-  # https://help.sider.review/tools/php/phinder
-  phinder:
-    rule: rules
-    php: src
+#   # https://help.sider.review/tools/php/phinder
+#   phinder:
+#     rule: rules
+#     php: src
 
   # https://help.sider.review/tools/shellscript/shellcheck
   shellcheck:
