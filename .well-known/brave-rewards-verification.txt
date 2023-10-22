@@ -1,0 +1,4 @@
+This is a Brave Creators publisher verification file.
+
+Domain: jarvis-bits.github.io
+Token: 604928da03733bef1eb1839d30384e1426ec8e5bbbc9a23ff6336cde7743506a
